@@ -1,5 +1,7 @@
 # Welcome to Telosair Help Pages
 
+Go to [about page](about.md)
+
 You can use the [editor on GitHub](https://github.com/Potsdam-Sensors/Telosair/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 
@@ -25,4 +27,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Go to [about page](about.md)
+
