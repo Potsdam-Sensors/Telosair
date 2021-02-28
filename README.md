@@ -1,6 +1,7 @@
 # Welcome to Telosair Help Page  :smiley: :wave:
 
 
+![Image of Telosair](https://github.com/Potsdam-Sensors/Telosair/blob/main/img/telosair.png)
 
 ## :round_pushpin: Contents
 
