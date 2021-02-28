@@ -1,33 +1,31 @@
-# Welcome to Telosair Help Page
-
-___________________________________________
+# Welcome to Telosair Help Page  :smiley: :wave:
 
 
-Go to [about page](about.md)
 
-You can use the [editor on GitHub](https://github.com/Potsdam-Sensors/Telosair/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## :round_pushpin: Contents
+
+###  If you looking for **Data** **Handling** **Tool** please visit:
+* [Mongo Data Tool](mongo_data.md)
 
 
-### Markdown
+### If you looking for **Sensors** **Setup** **Guide** please visit:
+* [Sensors setup Guide](sensors_setup.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
+## :pushpin: Outside of github
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Visit Our Website        :   https://telosair.com
+# Checkcout our Dashboard  :   https://telosair.com/dashboard
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- Contact : Suresh Dhaniyala   https://www.clarkson.edu/people/suresh-dhaniyala
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
+## :no_good:
 
