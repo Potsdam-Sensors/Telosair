@@ -1,4 +1,6 @@
-# Welcome to Telosair Help Pages
+# Welcome to Telosair Help Page
+___________________________________________
+
 
 Go to [about page](about.md)
 
