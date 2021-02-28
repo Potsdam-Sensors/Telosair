@@ -25,3 +25,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Go to [about page](about.md)
