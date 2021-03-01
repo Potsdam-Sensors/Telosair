@@ -7,13 +7,13 @@
 ## :round_pushpin: 
 
 ###  If you looking for **Data** **Handling** **Tool** please visit:
-* Mongodata Installation
+* [Mongodata Installation]
 * [Mongo Data API](mongo_data.md)
 
 
 ### If you looking for **Sensors** **Setup** **Guide** please visit:
-* [Sensors setup Guide](sensors_setup.md)
-
+* [Sensors setup Guide (USB Version)](usb_installation_guide.pdf)
+* [Sensors setup Guide (Radio Version)](usb_installation_guide.pdf)
 
 
 
