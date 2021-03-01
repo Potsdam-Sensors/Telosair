@@ -56,7 +56,7 @@ git clone https://github.com/Potsdam-Sensors/Mongo_data.git
 cd Mongo_data
 ```
 
-* Last step is isntall the script:
+* Last step is install the script:
 
 ```python
 python setup.py install
