@@ -22,10 +22,10 @@
 ```markdown
 
 # Visit Our Website        :   https://telosair.com
-# Checkcout our Dashboard  :   https://telosair.com/dashboard
+# Checkout our Dashboard  :   https://dashboard.telosair.com/
 
 
-- Contact : Suresh Dhaniyala   https://www.clarkson.edu/people/suresh-dhaniyala
+- Contact : Suresh Dhaniyala   suresh@telosair.com
 
 ```
 
