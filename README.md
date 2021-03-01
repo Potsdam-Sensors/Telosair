@@ -13,7 +13,7 @@
 
 ### If you looking for **Sensors** **Setup** **Guide** please visit:
 * [Sensors setup Guide (USB Version)](usb_installation_guide.pdf)
-* [Sensors setup Guide (Radio Version)](usb_installation_guide.pdf)
+* [Sensors setup Guide (Radio Version)](radio_installation_guide.pdf)
 
 
 ## :pushpin: Outside of github
