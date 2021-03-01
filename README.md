@@ -3,10 +3,12 @@
 
 ![Image of Telosair](https://github.com/Potsdam-Sensors/Telosair/blob/main/img/telosair.png)
 
-## :round_pushpin: Contents
+
+## :round_pushpin: 
 
 ###  If you looking for **Data** **Handling** **Tool** please visit:
-* [Mongo Data Tool](mongo_data.md)
+* Mongodata Installation
+* [Mongo Data API](mongo_data.md)
 
 
 ### If you looking for **Sensors** **Setup** **Guide** please visit:
@@ -28,5 +30,4 @@
 
 ```
 
-## :no_good:
 
