@@ -12,9 +12,12 @@
 ```
 
 ###  Import Authentication for database :smiley_cat:
+* fill in your collection name (Remove XXX)
+* fill in your username  (Remove XXX)
+* fill in your password  (Remove XXX)
 
 ```python
- mongodata=mongodata.TAAPI(host='peyton.potsdamsensors.com',   collection_name='ualbany',username='XXX',password='XXX')
+ mongodata=mongodata.TAAPI(host='peyton.potsdamsensors.com',   collection_name='xxx',username='XXX',password='XXX')
 ```
 
 ###  Query data from certain time and certain devices :smiley_cat:
