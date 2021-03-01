@@ -5,13 +5,13 @@
 
 
 
-###  Import Mongodata :smiley_cat:
+### :smiley_cat:  Import Mongodata 
 
 ```python
  from mongodata import mongodata
 ```
 
-###  Import Authentication for database :smiley_cat:
+### :smiley_cat: Import Authentication for database 
 * fill in your collection name (Remove XXX)
 * fill in your username  (Remove XXX)
 * fill in your password  (Remove XXX)
@@ -20,7 +20,7 @@
  mongodata=mongodata.TAAPI(host='peyton.potsdamsensors.com',   collection_name='xxx',username='XXX',password='XXX')
 ```
 
-###  Query data from certain time and certain devices :smiley_cat:
+### :smiley_cat: Query data from certain time and certain devices 
 * Type your devices id first, exp: 777,771, etc
 * Type your time range
 
@@ -30,7 +30,14 @@
                        endTime='2021-03-01 13:00:00')
 ```
 
-###  Show the Timeseries plot of your data :smiley_cat:
+### :smiley_cat: Save your data to csv  
+* data will saved in your working path
+
+```python
+data.to_csv('data.CSV')
+```
+
+### :smiley_cat: Show the Timeseries plot of your data 
 * data is your data 
 * then type the channels you need to plot , exp: tvoc, temp etc.
 
@@ -39,9 +46,10 @@
 ```
 
 
-### Save your data to csv  :smiley_cat:
-* data will saved in your working path
+### :smiley_cat: Show the HTML Timeseries plot of your data 
+* data is your data 
+* then type the channels you need to plot , exp: tvoc, temp etc.
 
 ```python
-data.to_csv('data.CSV')
+ mongodata.plot_timeSeriesHtml(data,'mpn03um')
 ```
