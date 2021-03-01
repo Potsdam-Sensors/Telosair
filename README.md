@@ -8,6 +8,7 @@
 
 ###  If you looking for **Data** **Handling** **Tool** please visit:
 * [Mongodata Installation]
+* [Mongodata Installation Chinese Version 简体中文]
 * [Mongo Data API](mongo_data.md)
 
 
