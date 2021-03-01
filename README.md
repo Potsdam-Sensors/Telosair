@@ -16,8 +16,6 @@
 * [Sensors setup Guide (Radio Version)](usb_installation_guide.pdf)
 
 
-
-
 ## :pushpin: Outside of github
 
 ```markdown
