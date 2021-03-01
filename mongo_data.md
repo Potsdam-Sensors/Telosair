@@ -1,4 +1,4 @@
-# Mongodata API reference :smiley: :wave:
+# Mongodata API reference :snowflake:
 
 
 ![Image of Telosair](https://github.com/Potsdam-Sensors/Telosair/blob/main/img/telosair.png)
@@ -6,6 +6,6 @@
 
 ### Import Mongodata 
 
-```
-from mongodata import mongodata
+```python
+ from mongodata import mongodata
 ```
