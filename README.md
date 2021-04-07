@@ -18,6 +18,9 @@
 * [Mongo Data API](mongo_data.md)
 
 
+# Data :
+* [Meaning of data output](data_meaning.md)
+
 
 # :monocle_face: Software 
 * Duet Software   https://github.com/Potsdam-Sensors/duet_software
