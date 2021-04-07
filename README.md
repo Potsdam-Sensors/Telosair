@@ -27,7 +27,7 @@
 
 
 # :pushpin:  Video Tutorial :
-How to use MongodataTool :  https://www.bilibili.com/video/BV1pi4y1N7e9
+How to use MongodataTool (Mac/Linux Verison) :  https://www.bilibili.com/video/BV1pi4y1N7e9
 
 
 
