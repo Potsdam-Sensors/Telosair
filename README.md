@@ -6,21 +6,29 @@
 
 ## :round_pushpin: 
 
-###  If you looking for **Data** **Handling** **Tool** please visit:
-* [Mongodata Installation](data_tool_installation.md)
-* [Mongo Data API](mongo_data.md)
 
-
-### If you looking for **Sensors** **Setup** **Guide** please visit:
+# Sensor Installation:
 * [Sensors setup Guide (USB Version)](usb_installation_guide.pdf)
 * [Sensors setup Guide (Radio Version)](radio_installation_guide.pdf)
 
 
-# Software 
-*Duet Software   https://github.com/Potsdam-Sensors/duet_software
+
+#  Code / Script:
+* [Mongodata Installation](data_tool_installation.md)
+* [Mongo Data API](mongo_data.md)
+
+
+
+# :monocle_face: Software 
+* Duet Software   https://github.com/Potsdam-Sensors/duet_software
+
 
 # :pushpin:  Video Tutorial :
 How to use MongodataTool :  https://www.bilibili.com/video/BV1pi4y1N7e9
+
+
+
+
 
 ```markdown
 
