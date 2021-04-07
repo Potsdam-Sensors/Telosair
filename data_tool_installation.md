@@ -66,8 +66,6 @@ python setup.py install
 
 * On Windows, you can run Jupyter via the shortcut Anaconda adds to your start menu(windows search bar), which will open a new tab in your default web browser
  
-* Tutorial may can help : https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
 
 
 
-![Video Of How to use Mongodata Tool](https://www.bilibili.com/video/BV1pi4y1N7e9)
