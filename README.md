@@ -4,7 +4,6 @@
 ![Image of Telosair](https://github.com/Potsdam-Sensors/Telosair/blob/main/img/telosair.png)
 
 
-## :round_pushpin: 
 
 
 # :ghost: Sensor Installation
