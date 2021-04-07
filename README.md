@@ -16,10 +16,10 @@
 * [Sensors setup Guide (Radio Version)](radio_installation_guide.pdf)
 
 
-## :pushpin: Outside of github
+# Software 
+*Duet Software   https://github.com/Potsdam-Sensors/duet_software
 
-
-## Video Tutorial :
+# :pushpin:  Video Tutorial :
 How to use MongodataTool :  https://www.bilibili.com/video/BV1pi4y1N7e9
 
 ```markdown
