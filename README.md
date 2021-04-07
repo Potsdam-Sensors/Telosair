@@ -7,18 +7,18 @@
 ## :round_pushpin: 
 
 
-# Sensor Installation:
+# :ghost: Sensor Installation:
 * [Sensors setup Guide (USB Version)](usb_installation_guide.pdf)
 * [Sensors setup Guide (Radio Version)](radio_installation_guide.pdf)
 
 
 
-#  Code / Script:
+# :cowboy_hat_face: Code / Script:
 * [Mongodata Installation](data_tool_installation.md)
 * [Mongo Data API](mongo_data.md)
 
 
-# Understandng the Data :
+# :partying_face: Understandng the Data :
 * [Meaning of data output](data_meaning.md)
 
 
@@ -28,8 +28,6 @@
 
 # :pushpin:  Video Tutorial :
 How to use MongodataTool :  https://www.bilibili.com/video/BV1pi4y1N7e9
-
-
 
 
 
