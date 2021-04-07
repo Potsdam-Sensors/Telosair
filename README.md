@@ -18,7 +18,7 @@
 * [Mongo Data API](mongo_data.md)
 
 
-# Data :
+# Understandng the Data :
 * [Meaning of data output](data_meaning.md)
 
 
