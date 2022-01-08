@@ -25,12 +25,7 @@
 * Duet Software   https://github.com/Potsdam-Sensors/duet_software
 
 
-# :tv: Video Tutorial 
-* How to use MongodataTool (Mac/Linux Verison) :  https://www.bilibili.com/video/BV1pi4y1N7e9
 
-* How to use MongodataTool to read locally saved data (Mac/Linux Verison) :  https://www.bilibili.com/video/BV1s64y1m7mj
-
-* How to update MongodataTool (Mac/Linux Verison) :  https://www.bilibili.com/video/BV1RX4y1g7vg
 
 
 
